@@ -1,0 +1,22 @@
+# Common requirements
+numpy
+pillow
+matplotlib
+opencv-python
+requests
+
+# API approach requirements
+google-cloud-aiplatform
+vertexai
+google-generativeai
+python-dotenv
+
+# GPU approach requirements
+ultralytics
+torch
+torchvision
+scikit-learn
+
+# Mobile approach requirements
+tensorflow
+tensorflow-hub
